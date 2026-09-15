@@ -1,0 +1,78 @@
+Gambar Asli,Metode,PSNR (dB),SSIM
+data/blur.jpg,Histogram Equalization,18.33,0.8956
+data/blur.jpg,Log Transform,7.81,0.6768
+data/blur.jpg,Image Negatives,7.21,0.31
+data/blur.jpg,Log Inverse (Gamma>1),12.87,0.5939
+data/blur.jpg,Sharpening (Laplacian),36.51,0.9393
+data/blur.jpg,Sharpening (DoG),55.7,0.999
+data/blur.jpg,Smoothing (Gaussian),45.93,0.9925
+data/blur.jpg,Smoothing (Mean),42.26,0.9855
+data/blur.jpg,Smoothing (Median),46.16,0.9915
+data/blur.jpg,Contrast Stretching,inf,1.0
+data/blur.jpg,Upsampling (Bicubic),45.99,0.9916
+data/highresolution.jpg,Histogram Equalization,16.04,0.8523
+data/highresolution.jpg,Log Transform,7.78,0.5165
+data/highresolution.jpg,Image Negatives,4.89,-0.4625
+data/highresolution.jpg,Log Inverse (Gamma>1),13.71,0.5047
+data/highresolution.jpg,Sharpening (Laplacian),17.62,0.6095
+data/highresolution.jpg,Sharpening (DoG),39.38,0.9962
+data/highresolution.jpg,Smoothing (Gaussian),26.51,0.8278
+data/highresolution.jpg,Smoothing (Mean),23.42,0.6722
+data/highresolution.jpg,Smoothing (Median),24.01,0.6977
+data/highresolution.jpg,Contrast Stretching,inf,1.0
+data/highresolution.jpg,Upsampling (Bicubic),30.86,0.9379
+data/lowcontrast.jpg,Histogram Equalization,12.26,0.4221
+data/lowcontrast.jpg,Log Transform,8.98,0.8109
+data/lowcontrast.jpg,Image Negatives,14.14,0.3883
+data/lowcontrast.jpg,Log Inverse (Gamma>1),11.16,0.807
+data/lowcontrast.jpg,Sharpening (Laplacian),27.89,0.7325
+data/lowcontrast.jpg,Sharpening (DoG),52.24,0.9977
+data/lowcontrast.jpg,Smoothing (Gaussian),39.08,0.9369
+data/lowcontrast.jpg,Smoothing (Mean),36.63,0.8878
+data/lowcontrast.jpg,Smoothing (Median),37.16,0.898
+data/lowcontrast.jpg,Contrast Stretching,12.36,0.6839
+data/lowcontrast.jpg,Upsampling (Bicubic),44.27,0.9814
+data/lowresolution.jpg,Histogram Equalization,16.49,0.8162
+data/lowresolution.jpg,Log Transform,7.47,0.573
+data/lowresolution.jpg,Image Negatives,5.77,-0.5008
+data/lowresolution.jpg,Log Inverse (Gamma>1),13.59,0.5228
+data/lowresolution.jpg,Sharpening (Laplacian),16.13,0.6156
+data/lowresolution.jpg,Sharpening (DoG),39.05,0.9966
+data/lowresolution.jpg,Smoothing (Gaussian),24.74,0.8067
+data/lowresolution.jpg,Smoothing (Mean),22.17,0.642
+data/lowresolution.jpg,Smoothing (Median),22.46,0.6734
+data/lowresolution.jpg,Contrast Stretching,inf,1.0
+data/lowresolution.jpg,Upsampling (Bicubic),29.85,0.9343
+data/noise.png,Histogram Equalization,15.21,0.844
+data/noise.png,Log Transform,7.59,0.4903
+data/noise.png,Image Negatives,4.28,-0.5275
+data/noise.png,Log Inverse (Gamma>1),14.07,0.5595
+data/noise.png,Sharpening (Laplacian),17.57,0.7127
+data/noise.png,Sharpening (DoG),40.45,0.9974
+data/noise.png,Smoothing (Gaussian),18.63,0.4758
+data/noise.png,Smoothing (Mean),17.65,0.3271
+data/noise.png,Smoothing (Median),17.56,0.336
+data/noise.png,Contrast Stretching,inf,1.0
+data/noise.png,Upsampling (Bicubic),24.91,0.8728
+data/overexposed.jpg,Histogram Equalization,10.37,0.7359
+data/overexposed.jpg,Log Transform,13.17,0.7058
+data/overexposed.jpg,Image Negatives,2.79,-0.3002
+data/overexposed.jpg,Log Inverse (Gamma>1),15.25,0.8672
+data/overexposed.jpg,Sharpening (Laplacian),17.65,0.719
+data/overexposed.jpg,Sharpening (DoG),41.5,0.997
+data/overexposed.jpg,Smoothing (Gaussian),26.28,0.8236
+data/overexposed.jpg,Smoothing (Mean),23.78,0.6907
+data/overexposed.jpg,Smoothing (Median),24.26,0.7242
+data/overexposed.jpg,Contrast Stretching,inf,1.0
+data/overexposed.jpg,Upsampling (Bicubic),31.63,0.9514
+data/underexposed.jpg,Histogram Equalization,11.19,0.4947
+data/underexposed.jpg,Log Transform,7.98,0.4333
+data/underexposed.jpg,Image Negatives,2.05,0.0033
+data/underexposed.jpg,Log Inverse (Gamma>1),18.34,0.3225
+data/underexposed.jpg,Sharpening (Laplacian),26.34,0.7827
+data/underexposed.jpg,Sharpening (DoG),46.27,0.9971
+data/underexposed.jpg,Smoothing (Gaussian),33.17,0.9255
+data/underexposed.jpg,Smoothing (Mean),29.97,0.8561
+data/underexposed.jpg,Smoothing (Median),33.18,0.8851
+data/underexposed.jpg,Contrast Stretching,inf,1.0
+data/underexposed.jpg,Upsampling (Bicubic),37.16,0.9739
